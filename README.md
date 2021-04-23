@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Check the project here:
+```
+https://vue-coach-finder-5a8ed.web.app/coaches
+```
